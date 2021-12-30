@@ -1,6 +1,6 @@
 # ColourFormatter
 
-Takes the colour you picked and converts it to the format used in .entities and .decls
+Takes the colour you picked and converts it to the format used in .entities and .decls. Optional mode for use with recolourHelper.
 
 ## Usage
 0. You will be prompted to choose if you want to clear the output files (configurable)
