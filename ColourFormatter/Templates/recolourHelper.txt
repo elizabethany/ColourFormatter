@@ -1,0 +1,3 @@
+color1 = {{{floatR}}};
+color2 = {{{floatG}}};
+color3 = {{{floatB}}};

@@ -1,0 +1,5 @@
+{{{fieldName}}} = { // (R:{{{r}}}, G:{{{g}}}, B:{{{b}}})
+				{{{parameterR}}} = {{{floatR}}};
+				{{{parameterG}}} = {{{floatG}}};
+				{{{parameterB}}} = {{{floatB}}};
+			}
