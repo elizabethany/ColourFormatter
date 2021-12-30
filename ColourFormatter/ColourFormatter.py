@@ -1,7 +1,6 @@
 import configparser
 import time
 import chevron
-import tkinter
 from tkinter import *
 from tkinter.colorchooser import askcolor
 
@@ -130,6 +129,8 @@ def clearOutput(
 # "Main"
 def mainBody(
     ):
+        
+    dummyGUIThing.withdraw()
 
     titleString = "colourFormatter v0.1 by elizabethany"
     borderString = ""
@@ -155,7 +156,7 @@ def mainBody(
         dummyGUIThing.withdraw()
         colourPicker()
         if loopFormatting == 0:
+            input("loopFormatting is set to '0'; press Enter to exit ...")
             break
-        time.sleep(0.2)
 
 mainBody()
